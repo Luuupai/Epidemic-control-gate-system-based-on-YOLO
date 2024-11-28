@@ -1,0 +1,4 @@
+YOLOv5-Lite——主要录入trian.py的代码 filter=lfs diff=lfs merge=lfs -text
+mask.onnx filter=lfs diff=lfs merge=lfs -text
+nose.onnx filter=lfs diff=lfs merge=lfs -text
+simsun.ttc filter=lfs diff=lfs merge=lfs -text
